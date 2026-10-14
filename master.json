@@ -6,7 +6,7 @@
         "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them\n- Old UI version pre 7.57",
         "Changelog": " - ",
         "IsHide": false,
-        "InternalName": "Lifestream [OLD UI]",
+        "InternalName": "Lifestream",
         "AssemblyVersion": "2.5.5.6",
         "IsTestingExclusive": false,
         "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
